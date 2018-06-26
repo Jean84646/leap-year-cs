@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/LeapYear.solution/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.deps.json
+/Users/Guest/Desktop/LeapYear.solution/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.dll
+/Users/Guest/Desktop/LeapYear.solution/LeapYear/bin/Debug/netcoreapp1.1/LeapYear.pdb
+/Users/Guest/Desktop/LeapYear.solution/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.AssemblyInfo.cs
+/Users/Guest/Desktop/LeapYear.solution/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.dll
+/Users/Guest/Desktop/LeapYear.solution/LeapYear/obj/Debug/netcoreapp1.1/LeapYear.pdb
